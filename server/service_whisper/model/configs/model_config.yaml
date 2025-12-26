@@ -1,0 +1,4 @@
+EMOTION_REG_MODEL: "speechbrain/emotion-recognition-wav2vec2-IEMOCAP"
+EMOTION_REG_CLASSNAME: "CustomEncoderWav2vec2Classifier"
+DIARIZER_EMBED: "speechbrain/spkrec-ecapa-voxceleb"
+VOICE_GENDER_CLASSIFIER: "JaesungHuh/voice-gender-classifier"
