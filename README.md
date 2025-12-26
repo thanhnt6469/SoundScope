@@ -63,4 +63,8 @@ flutter run
 - **Frontend**: Flutter (mobile), Streamlit (web)
 - **AI Models**: Custom models for ASC/AED, Whisper for STT, SpeechBrain for emotion
 
+## Notes
 
+- Get Groq API key (free): https://console.groq.com/
+- Get Pyannote access token (for speaker diarization): https://huggingface.co/pyannote/speaker-diarization-3.1
+- Audio services need GPU for best performance (CPU works too, just slower)
