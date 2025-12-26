@@ -1,0 +1,79 @@
+services:
+  server_asc_aed: 
+    build: 
+      context: ./server/service_asc_aed
+      dockerfile: Dockerfile
+    container_name: service_asc_aed
+    image: thesis_server_asc_aed
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    restart: always
+    # GPU config - uncomment if you have NVIDIA GPU
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - capabilities: [gpu]
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+  server_whisper: 
+    build: 
+      context: ./server/service_whisper
+      dockerfile: Dockerfile
+    container_name: service_whisper
+    image: thesis_server_whisper
+    env_file:
+      - .env
+    ports:
+      - "8001:8001"
+    restart: always
+    # GPU config - uncomment if you have NVIDIA GPU
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - capabilities: [gpu]
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+  server_cap_df: 
+    build: 
+      context: ./server/service_cap_df
+      dockerfile: Dockerfile
+    image: thesis_server_cap_df
+    container_name: service_cap_df
+    env_file:
+      - .env
+    ports:
+      - "8002:8002"
+    restart: always
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - capabilities: [gpu]
+    # runtime: nvidia
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    image: thesis_client
+    container_name: client
+    depends_on:
+      - server_asc_aed
+      - server_whisper
+      - server_cap_df
+    env_file:
+      - .env
+    ports:
+      - "8501:8501"
+    restart: always
+networks:
+  app:
+    driver: bridge
+
+
