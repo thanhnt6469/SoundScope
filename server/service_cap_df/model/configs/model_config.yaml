@@ -1,0 +1,4 @@
+LLM_MODEL: "llama3-8b-8192"
+AUDIO_CAPTIONING_MODEL_CLOTHO: "wsntxxn/effb2-trm-clotho-captioning"
+AUDIO_CAPTIONING_MODEL_AUDIO_CAP: "wsntxxn/effb2-trm-audio-captioning"
+AUDIO_CAPTIONING_TOKENIZER: "wsntxxn/clotho-simple-tokenizer"
