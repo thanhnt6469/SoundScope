@@ -1,0 +1,14 @@
+[theme]
+# Font configuration - Streamlit only supports: 'sans serif', 'serif', 'monospace'
+font = "sans serif"
+primaryColor = "#819ccc"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+
+[server]
+port = 8501
+address = "0.0.0.0"
+
+[browser]
+gatherUsageStats = false
