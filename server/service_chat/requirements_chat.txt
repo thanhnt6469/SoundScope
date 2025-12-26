@@ -1,0 +1,12 @@
+# FastAPI Chat Service Requirements
+# Note: Python 3.11 or 3.12 recommended (Python 3.13 may need Rust for some packages)
+
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.0
+python-dotenv==1.0.0
+python-multipart==0.0.9
+groq>=0.11.0
+httpx>=0.27.0
+pyyaml==6.0.2
+aiofiles>=23.0.0
