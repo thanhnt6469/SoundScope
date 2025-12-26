@@ -1,0 +1,528 @@
+Event,Rate,Source,Env
+Cheering,l2_02,human,both
+Crowd,l2_02,human,outdoor
+Run,l2_02,human,outdoor
+Applause,l2_02,human,both
+"Hubbub, speech noise, speech babble",l2_02,human,both
+Battle cry,l2_02,human,outdoor
+"Wail, moan",l2_01,human,both
+Shout,l2_01,human,both
+Bellow,l2_01,human,both
+Whoop,l2_01,human,both
+Yell,l2_01,human,both
+Children shouting,l2_01,human,both
+Screaming,l2_01,human,both
+"Crying, sobbing",l2_01,human,both
+"Baby cry, infant cry",l2_01,human,both
+Cough,l1,human,both
+Speech,l1,human,both
+"Male speech, man speaking",l1,human,both
+"Female speech, woman speaking",l1,human,both
+"Child speech, kid speaking",l1,human,both
+Conversation,l1,human,both
+"Narration, monologue",l1,human,both
+Babbling,l1,human,both
+Speech synthesizer,l1,human,both
+Whispering,l1,human,both
+Laughter,l1,human,both
+Baby laughter,l1,human,both
+"Chuckle, chortle",l1,human,both
+Whimper,l1,human,both
+Groan,l1,human,both
+Grunt,l1,human,both
+Whistling,l1,human,both
+Breathing,l1,human,both
+Wheeze,l1,human,both
+Snoring,l1,human,both
+Gasp,l1,human,both
+Pant,l1,human,both
+Snort,l1,human,both
+Throat clearing,l1,human,both
+Sneeze,l1,human,both
+Sniff,l1,human,both
+Chant,l1,human,both
+Mantra,l1,human,both
+Sigh,l1,human,both
+"Walk, footsteps",l1,human,both
+"Chewing, mastication",l1,human,both
+Biting,l1,human,both
+Gargling,l1,human,both
+Stomach rumble,l1,human,both
+"Burping, eructation",l1,human,both
+Hiccup,l1,human,both
+Fart,l1,human,both
+Hands,l1,human,both
+Finger snapping,l1,human,both
+Chatter,l1,human,both
+"Heart sounds, heartbeat",l1,human,both
+Heart murmur,l1,human,both
+Children playing,l1,human,both
+Shuffle,l1,human,both
+Snicker,l0,human,both
+Giggle,l0,human,both
+Belly laugh,l0,human,both
+Singing,l0,human,both
+Choir,l0,human,both
+Yodeling,l0,human,both
+Male singing,l0,human,both
+Female singing,l0,human,both
+Child singing,l0,human,both
+Synthetic singing,l0,human,both
+Rapping,l0,human,both
+Humming,l0,human,both
+Clapping,l0,human,both
+Animal,l1,animal,outdoor
+"Domestic animals, pets",l1,animal,indoor
+Dog,l1,animal,both
+Bark,l1,animal,both
+Yip,l1,animal,both
+Howl,l1,animal,outdoor
+Bow-wow,l1,animal,both
+Growling,l1,animal,both
+Whimper (dog),l1,animal,both
+Cat,l1,animal,both
+Purr,l1,animal,both
+Meow,l1,animal,both
+Hiss,l1,animal,both
+Caterwaul,l1,animal,both
+"Livestock, farm animals, working animals",l1,animal,outdoor
+Horse,l1,animal,outdoor
+Clip-clop,l1,animal,outdoor
+"Neigh, whinny",l1,animal,outdoor
+"Cattle, bovinae",l1,animal,outdoor
+Moo,l1,animal,outdoor
+Cowbell,l1,animal,outdoor
+Pig,l1,animal,outdoor
+Oink,l1,animal,outdoor
+Goat,l1,animal,outdoor
+Bleat,l1,animal,outdoor
+Sheep,l1,animal,outdoor
+Fowl,l1,animal,outdoor
+"Chicken, rooster",l1,animal,outdoor
+Cluck,l1,animal,outdoor
+"Crowing, cock-a-doodle-doo",l1,animal,outdoor
+Turkey,l1,animal,outdoor
+Gobble,l1,animal,outdoor
+Duck,l1,animal,outdoor
+Quack,l1,animal,outdoor
+Goose,l1,animal,outdoor
+Honk,l1,animal,outdoor
+Wild animals,l1,animal,outdoor
+"Roaring cats (lions, tigers)",l1,animal,outdoor
+Roar,l1,animal,outdoor
+Bird,l1,animal,outdoor
+"Bird vocalization, bird call, bird song",l1,animal,outdoor
+"Chirp, tweet",l1,animal,outdoor
+Squawk,l1,animal,outdoor
+"Pigeon, dove",l1,animal,outdoor
+Coo,l1,animal,outdoor
+Crow,l1,animal,outdoor
+Caw,l1,animal,outdoor
+Owl,l1,animal,outdoor
+Hoot,l1,animal,outdoor
+"Bird flight, flapping wings",l1,animal,outdoor
+"Canidae, dogs, wolves",l1,animal,both
+"Rodents, rats, mice",l1,animal,indoor
+Mouse,l1,animal,indoor
+Patter,l1,animal,outdoor
+Insect,l1,animal,outdoor
+Cricket,l1,animal,outdoor
+Mosquito,l1,animal,outdoor
+"Fly, housefly",l1,animal,outdoor
+Buzz,l1,animal,outdoor
+"Bee, wasp, etc.",l1,animal,outdoor
+Frog,l1,animal,outdoor
+Croak,l1,animal,outdoor
+Snake,l1,animal,outdoor
+Rattle,l1,animal,outdoor
+Whale vocalization,l1,animal,outdoor
+Music,l1,music,both
+Musical instrument,l0,music,both
+Plucked string instrument,l0,music,both
+Guitar,l0,music,both
+Electric guitar,l0,music,both
+Bass guitar,l0,music,both
+Acoustic guitar,l0,music,both
+"Steel guitar, slide guitar",l0,music,both
+Tapping (guitar technique),l0,music,both
+Strum,l0,music,both
+Banjo,l0,music,both
+Sitar,l0,music,both
+Mandolin,l0,music,both
+Zither,l0,music,both
+Ukulele,l0,music,both
+Keyboard (musical),l0,music,both
+Piano,l0,music,both
+Electric piano,l0,music,both
+Organ,l0,music,both
+Electronic organ,l0,music,both
+Hammond organ,l0,music,both
+Synthesizer,l0,music,both
+Sampler,l0,music,both
+Harpsichord,l0,music,both
+Percussion,l0,music,both
+Drum kit,l0,music,both
+Drum machine,l0,music,both
+Drum,l0,music,both
+Snare drum,l0,music,both
+Rimshot,l0,music,both
+Drum roll,l0,music,both
+Bass drum,l0,music,both
+Timpani,l0,music,both
+Tabla,l0,music,both
+Cymbal,l0,music,both
+Hi-hat,l0,music,both
+Wood block,l0,music,both
+Tambourine,l0,music,both
+Rattle (instrument),l0,music,both
+Maraca,l0,music,both
+Gong,l0,music,both
+Tubular bells,l0,music,both
+Mallet percussion,l0,music,both
+"Marimba, xylophone",l0,music,both
+Glockenspiel,l0,music,both
+Vibraphone,l0,music,both
+Steelpan,l0,music,both
+Orchestra,l0,music,both
+Brass instrument,l0,music,both
+French horn,l0,music,both
+Trumpet,l0,music,both
+Trombone,l0,music,both
+Bowed string instrument,l0,music,both
+String section,l0,music,both
+"Violin, fiddle",l0,music,both
+Pizzicato,l0,music,both
+Cello,l0,music,both
+Double bass,l0,music,both
+"Wind instrument, woodwind instrument",l0,music,both
+Flute,l0,music,both
+Saxophone,l0,music,both
+Clarinet,l0,music,both
+Harp,l0,music,both
+Bell,l0,music,both
+Church bell,l0,music,both
+Jingle bell,l0,music,both
+Bicycle bell,l0,music,both
+Tuning fork,l0,music,both
+Chime,l0,music,both
+Wind chime,l0,music,both
+Change ringing (campanology),l0,music,both
+Harmonica,l0,music,both
+Accordion,l0,music,both
+Bagpipes,l0,music,both
+Didgeridoo,l0,music,both
+Shofar,l0,music,both
+Theremin,l0,music,both
+Singing bowl,l0,music,both
+Scratching (performance technique),l1,music,both
+Pop music,l0,music,both
+Hip hop music,l0,music,both
+Beatboxing,l0,music,both
+Rock music,l0,music,both
+Heavy metal,l0,music,both
+Punk rock,l0,music,both
+Grunge,l0,music,both
+Progressive rock,l0,music,both
+Rock and roll,l0,music,both
+Psychedelic rock,l0,music,both
+Rhythm and blues,l0,music,both
+Soul music,l0,music,both
+Reggae,l0,music,both
+Country,l0,music,both
+Swing music,l0,music,both
+Bluegrass,l0,music,both
+Funk,l0,music,both
+Folk music,l0,music,both
+Middle Eastern music,l0,music,both
+Jazz,l0,music,both
+Disco,l0,music,both
+Classical music,l0,music,both
+Opera,l0,music,both
+Electronic music,l0,music,both
+House music,l0,music,both
+Techno,l0,music,both
+Dubstep,l0,music,both
+Drum and bass,l0,music,both
+Electronica,l0,music,both
+Electronic dance music,l0,music,both
+Ambient music,l0,music,both
+Trance music,l0,music,both
+Music of Latin America,l0,music,both
+Salsa music,l0,music,both
+Flamenco,l0,music,both
+Blues,l0,music,both
+Music for children,l0,music,both
+New-age music,l0,music,both
+Vocal music,l0,music,both
+A capella,l0,music,both
+Music of Africa,l0,music,both
+Afrobeat,l0,music,both
+Christian music,l0,music,both
+Gospel music,l0,music,both
+Music of Asia,l0,music,both
+Carnatic music,l0,music,both
+Music of Bollywood,l0,music,both
+Ska,l0,music,both
+Traditional music,l0,music,both
+Independent music,l0,music,both
+Song,l0,music,both
+Background music,l0,music,both
+Theme music,l0,music,both
+Jingle (music),l0,music,both
+Soundtrack music,l0,music,both
+Lullaby,l0,music,both
+Video game music,l0,music,both
+Christmas music,l0,music,both
+Dance music,l0,music,both
+Wedding music,l0,music,both
+Happy music,l0,music,both
+Funny music,l0,music,both
+Sad music,l0,music,both
+Tender music,l0,music,both
+Exciting music,l0,music,both
+Angry music,l1,music,both
+Scary music,l1,music,both
+Wind,l1,nature,outdoor
+Rustling leaves,l1,nature,outdoor
+Wind noise (microphone),l1,nature,outdoor
+Water,l1,nature,outdoor
+Rain,l1,nature,outdoor
+Raindrop,l1,nature,outdoor
+Rain on surface,l1,nature,outdoor
+Stream,l1,nature,outdoor
+Waterfall,l1,nature,outdoor
+Ocean,l1,nature,outdoor
+"Waves, surf",l1,nature,outdoor
+Steam,l1,nature,outdoor
+Gurgling,l1,nature,outdoor
+Thunderstorm,l2_03,nature,outdoor
+Thunder,l2_03,nature,outdoor
+Basketball bounce,l2_04,things,both
+Crackle,l2_04,machine_vehicle,both
+Mechanisms,l2_04,machine_vehicle,both
+"Dental drill, dentist's drill",l2_04,machine_vehicle,both
+Buzzer,l2_04,machine_vehicle,both
+Hammer,l2_04,machine_vehicle,both
+Jackhammer,l2_04,machine_vehicle,both
+Power tool,l2_04,machine_vehicle,both
+Drill,l2_04,machine_vehicle,both
+"Burst, pop",l2_04,machine_vehicle,both
+Crack,l2_04,machine_vehicle,both
+Skidding,l2_04,machine_vehicle,outdoor
+Toot,l2_04,machine_vehicle,both
+"Race car, auto racing",l2_04,machine_vehicle,outdoor
+Tire squeal,l2_04,machine_vehicle,both
+Air brake,l2_04,machine_vehicle,outdoor
+"Traffic noise, roadway noise",l2_04,machine_vehicle,outdoor
+Engine knocking,l2_04,machine_vehicle,outdoor
+Engine starting,l2_04,machine_vehicle,outdoor
+Breaking,l2_04,machine_vehicle,both
+Bouncing,l2_04,machine_vehicle,both
+Scratch,l2_04,machine_vehicle,both
+"Thump, thud",l2_04,machine_vehicle,both
+Bang,l2_04,machine_vehicle,both
+Slam,l2_04,machine_vehicle,both
+Knock,l2_04,machine_vehicle,both
+Tap,l2_04,machine_vehicle,both
+"Smoke detector, smoke alarm",l2_05,machine_vehicle,indoor
+Fire alarm,l2_05,machine_vehicle,both
+Foghorn,l2_05,machine_vehicle,both
+Alarm,l2_05,machine_vehicle,both
+Siren,l2_05,machine_vehicle,both
+Civil defense siren,l2_05,machine_vehicle,outdoor
+Car alarm,l2_05,machine_vehicle,both
+"Vehicle horn, car horn, honking",l2_05,machine_vehicle,both
+"Air horn, truck horn",l2_05,machine_vehicle,outdoor
+Reversing beeps,l2_05,machine_vehicle,outdoor
+Emergency vehicle,l2_05,machine_vehicle,outdoor
+Police car (siren),l2_05,machine_vehicle,outdoor
+Ambulance (siren),l2_05,machine_vehicle,outdoor
+"Fire engine, fire truck (siren)",l2_05,machine_vehicle,outdoor
+Alarm clock,l1,machine_vehicle,indoor
+Vehicle,l1,machine_vehicle,both
+"Boat, Water vehicle",l1,machine_vehicle,outdoor
+"Sailboat, sailing ship",l1,machine_vehicle,outdoor
+"Rowboat, canoe, kayak",l1,machine_vehicle,outdoor
+"Motorboat, speedboat",l1,machine_vehicle,outdoor
+Ship,l1,machine_vehicle,outdoor
+Motor vehicle (road),l1,machine_vehicle,outdoor
+Car,l1,machine_vehicle,outdoor
+"Power windows, electric windows",l1,machine_vehicle,outdoor
+Car passing by,l1,machine_vehicle,outdoor
+Truck,l1,machine_vehicle,outdoor
+"Ice cream truck, ice cream van",l1,machine_vehicle,outdoor
+Bus,l1,machine_vehicle,outdoor
+Motorcycle,l1,machine_vehicle,outdoor
+Rail transport,l1,machine_vehicle,outdoor
+Train,l1,machine_vehicle,outdoor
+Train whistle,l1,machine_vehicle,outdoor
+Train horn,l1,machine_vehicle,outdoor
+"Railroad car, train wagon",l1,machine_vehicle,outdoor
+Train wheels squealing,l1,machine_vehicle,outdoor
+"Subway, metro, underground",l1,machine_vehicle,outdoor
+Aircraft,l1,machine_vehicle,outdoor
+Aircraft engine,l1,machine_vehicle,outdoor
+Jet engine,l1,machine_vehicle,outdoor
+"Propeller, airscrew",l1,machine_vehicle,outdoor
+Helicopter,l1,machine_vehicle,outdoor
+"Fixed-wing aircraft, airplane",l1,machine_vehicle,outdoor
+Bicycle,l1,machine_vehicle,both
+Skateboard,l1,machine_vehicle,both
+Engine,l1,machine_vehicle,both
+Light engine (high frequency),l1,machine_vehicle,both
+Lawn mower,l1,machine_vehicle,both
+Chainsaw,l1,machine_vehicle,both
+Medium engine (mid frequency),l1,machine_vehicle,both
+Heavy engine (low frequency),l1,machine_vehicle,both
+Idling,l1,machine_vehicle,both
+"Accelerating, revving, vroom",l1,machine_vehicle,both
+Door,l1,things,indoor
+Doorbell,l1,things,indoor
+Ding-dong,l1,things,indoor
+Sliding door,l1,things,indoor
+Squeak,l1,things,indoor
+Cupboard open or close,l1,things,indoor
+Drawer open or close,l1,things,indoor
+"Dishes, pots, and pans",l1,things,indoor
+"Cutlery, silverware",l1,things,indoor
+Chopping (food),l1,things,indoor
+Frying (food),l1,things,indoor
+Microwave oven,l1,things,indoor
+Blender,l1,things,indoor
+"Water tap, faucet",l1,things,indoor
+Sink (filling or washing),l1,things,indoor
+Bathtub (filling or washing),l1,things,indoor
+Hair dryer,l1,things,indoor
+Toilet flush,l1,things,indoor
+Toothbrush,l1,things,indoor
+Electric toothbrush,l1,things,indoor
+Vacuum cleaner,l1,things,indoor
+Zipper (clothing),l1,things,indoor
+Keys jangling,l1,things,indoor
+Coin (dropping),l1,things,indoor
+Scissors,l1,things,indoor
+"Electric shaver, electric razor",l1,things,indoor
+Shuffling cards,l1,things,indoor
+Typing,l1,things,indoor
+Typewriter,l1,things,indoor
+Computer keyboard,l1,things,indoor
+Writing,l1,things,indoor
+Telephone,l1,things,indoor
+Telephone bell ringing,l1,things,indoor
+Ringtone,l1,things,indoor
+"Telephone dialing, DTMF",l1,things,indoor
+Dial tone,l1,things,indoor
+Busy signal,l1,things,indoor
+Whistle,l1,things,indoor
+Steam whistle,l1,things,indoor
+"Ratchet, pawl",l1,things,indoor
+Clock,l1,things,indoor
+Tick,l1,things,indoor
+Tick-tock,l1,things,indoor
+Gears,l1,things,indoor
+Pulleys,l1,things,indoor
+Sewing machine,l1,things,indoor
+Mechanical fan,l1,things,indoor
+Air conditioning,l1,things,indoor
+Cash register,l1,things,indoor
+Printer,l1,things,indoor
+Camera,l1,things,indoor
+Single-lens reflex camera,l1,things,indoor
+Tools,l1,things,indoor
+Sawing,l1,things,indoor
+Filing (rasp),l1,things,indoor
+Sanding,l1,things,indoor
+Boom,l1,things,indoor
+Wood,l1,things,indoor
+Chop,l1,things,indoor
+Splinter,l1,things,indoor
+Glass,l1,things,indoor
+"Chink, clink",l1,things,indoor
+Shatter,l1,things,indoor
+Liquid,l1,things,indoor
+"Splash, splatter",l1,things,indoor
+Slosh,l1,things,indoor
+Squish,l1,things,indoor
+Drip,l1,things,indoor
+Pour,l1,things,indoor
+"Trickle, dribble",l1,things,indoor
+Gush,l1,things,indoor
+Fill (with liquid),l1,things,indoor
+Spray,l1,things,indoor
+Pump (liquid),l1,things,indoor
+Stir,l1,things,indoor
+Boiling,l1,things,indoor
+Sonar,l1,things,indoor
+Arrow,l1,things,indoor
+"Whoosh, swoosh, swish",l1,things,indoor
+Thunk,l1,things,indoor
+Electronic tuner,l1,things,indoor
+Effects unit,l1,things,indoor
+Chorus effect,l1,things,indoor
+"Slap, smack",l1,things,indoor
+"Whack, thwack",l1,things,indoor
+"Smash, crash",l1,things,indoor
+Whip,l1,things,indoor
+Flap,l1,things,indoor
+Scrape,l1,things,indoor
+Rub,l1,things,indoor
+Roll,l1,things,indoor
+Crushing,l1,things,indoor
+"Crumpling, crinkling",l1,things,indoor
+Tearing,l1,things,indoor
+"Beep, bleep",l1,things,indoor
+Ping,l1,things,indoor
+Ding,l1,things,indoor
+Clang,l1,things,indoor
+Squeal,l1,things,indoor
+Creak,l1,things,indoor
+Rustle,l1,things,indoor
+Whir,l1,things,indoor
+Clatter,l1,things,indoor
+Sizzle,l1,things,indoor
+Clicking,l1,things,indoor
+Clickety-clack,l1,things,indoor
+Rumble,l1,things,indoor
+Plop,l1,things,indoor
+"Jingle, tinkle",l1,things,indoor
+Hum,l1,things,indoor
+Zing,l1,things,indoor
+Boing,l1,things,indoor
+Crunch,l1,things,indoor
+Silence,l1,things,indoor
+Sine wave,l1,music,both
+Harmonic,l1,music,both
+Chirp tone,l1,music,both
+Sound effect,l1,music,both
+Pulse,l1,music,both
+"Inside, small room",l1,nature,indoor
+"Inside, large room or hall",l1,nature,indoor
+"Inside, public space",l1,nature,indoor
+"Outside, urban or manmade",l1,nature,outdoor
+"Outside, rural or natural",l1,nature,outdoor
+Reverberation,l1,nature,outdoor
+Echo,l1,acoustic,indoor
+Noise,l1,acoustic,indoor
+Environmental noise,l1,acoustic,indoor
+Static,l1,acoustic,indoor
+Mains hum,l1,acoustic,indoor
+Distortion,l1,acoustic,indoor
+Sidetone,l1,acoustic,indoor
+Cacophony,l1,acoustic,indoor
+White noise,l1,acoustic,indoor
+Pink noise,l1,acoustic,indoor
+Throbbing,l1,acoustic,indoor
+Vibration,l1,acoustic,indoor
+Television,l1,acoustic,indoor
+Radio,l1,acoustic,indoor
+Field recording,l1,acoustic,indoor
+Explosion,l3,human,outdoor
+"Gunshot, gunfire",l3,human,outdoor
+Machine gun,l3,human,outdoor
+Fusillade,l3,human,outdoor
+Artillery fire,l3,human,outdoor
+Cap gun,l3,human,outdoor
+Eruption,l3,nature,outdoor
+Fire,l3,human,outdoor
+Fireworks,l3,human,outdoor
+Firecracker,l3,human,outdoor
